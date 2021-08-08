@@ -1,5 +1,5 @@
 # Applied-Financial-Economertics-Project-1
-University Trier Applied Financial Econometrics Project 1
+University Trier - Applied Financial Econometrics - Project 1
 
 The following task done in the Assignment1
 
