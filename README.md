@@ -1,4 +1,4 @@
-# Applied-Financial-Economertics-Assignment1
+# Applied-Financial-Economertics-Assignment-1
 Time Series Modeling of Gold Prices and Returns
 
 The following task done in the Assignment1
