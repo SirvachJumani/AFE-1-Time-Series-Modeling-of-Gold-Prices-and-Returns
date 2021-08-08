@@ -1,7 +1,7 @@
 # Applied-Financial-Economertics-Project-1
 University Trier - Applied Financial Econometrics - Project 1
 
-The following task done in the Assignment1
+The following task done in the project
 
 1. Obtain weekly historical data (\xts") of gold price (\LBMA/GOLD") for the maximum available time period. Take USD as the base currency for your entire analysis.
 
