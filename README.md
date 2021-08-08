@@ -18,7 +18,7 @@ series object. Next, declare the time variable as yearmonth(). Finally, get rid 
 
 7. Check the variable for the existence of a trend. Explain.
 
-8. Estimate ARIMA(0,0,0)􀀀ARIMA(4,0,4) models and choose the one that minimizes the information criteria (IC). Why do we set d=0?
+8. Estimate ARIMA(0,0,0) - ARIMA(4,0,4) models and choose the one that minimizes the information criteria (IC). Why do we set d=0?
 
 9. Take the model recommended by the Akaike IC and perform a test for residual autocorrelation with up to 20 lags. Interpret the results.
 
