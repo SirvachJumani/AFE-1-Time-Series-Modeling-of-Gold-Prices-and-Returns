@@ -1,5 +1,5 @@
-# Applied-Financial-Economertics-Assignment-1
-Time Series Modeling of Gold Prices and Returns
+# Applied-Financial-Economertics-Project-1
+University Trier Applied Financial Econometrics Project 1
 
 The following task done in the Assignment1
 
